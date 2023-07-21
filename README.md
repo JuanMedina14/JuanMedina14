@@ -1,6 +1,6 @@
 <h1 align="center" > Hi, I am Juan Medina 👋</h1>
 
-![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
+![jm_banner](https://github.com/JuanMedina14/JuanMedina14/assets/134160979/83feb75f-7f6d-4329-85c3-9c1e0027ad26)
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juanmedinagrafico@gmail.com)](mailto:juanmedinagrafico@gmail.com)
