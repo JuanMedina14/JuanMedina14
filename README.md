@@ -1,4 +1,6 @@
-### Hi I´m Juan 👋
+[![Header](https://github.com/JuanMedina/JuanMedina/raw/master/profile.gif)](https://www.adamalston.com/)
+
+### Hi I´m Juan
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juanmedinagrafico@gmail.com)](mailto:juanmedinagrafico@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5491133447076&text=Olá!)](https://api.whatsapp.com/send?phone=+5491133447076&text=Hi!🖖)
