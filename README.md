@@ -29,7 +29,7 @@
 ![Adobe After Effects](http://img.shields.io/badge/-Adobe%20After%20Effects-3C4858?style=flat-square&logo=adobe-after-effects)
 
 
-[![JuanMedina14 GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanMedina14)](https://github.com/JuanMedina14/github-readme-stats)
+*/ [![JuanMedina14 GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanMedina14)](https://github.com/JuanMedina14/github-readme-stats) /*
 
 
 
