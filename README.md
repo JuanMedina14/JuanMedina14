@@ -1,6 +1,9 @@
+
+
 <h1 align="center" > Hi, I am Juan Medina 👋</h1>
 
-![jm_banner](https://github.com/JuanMedina14/JuanMedina14/assets/134160979/1aa02595-59a3-4ea0-859f-97b56e450a44)
+![banner JM-01](https://github.com/JuanMedina14/JuanMedina14/assets/134160979/60da47ee-e1b5-4538-a73b-e372a8dbe942)
+
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juanmedinagrafico@gmail.com)](mailto:juanmedinagrafico@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5491133447076&text=Olá!)](https://api.whatsapp.com/send?phone=+5491133447076&text=Hi!🖖)
